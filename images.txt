@@ -11,3 +11,5 @@ linuxserver/qbittorrent:latest
 whyour/qinglong:debian
 6053537/portainer-ce:latest
 linkease/linkease:latest
+liwei2633/gopeed 
+linuxserver/transmission:latest
