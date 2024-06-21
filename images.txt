@@ -11,4 +11,4 @@ linkease/linkease:latest
 liwei2633/gopeed 
 linuxserver/transmission:latest
 cnk3x/xunlei:latest
-xiaoyaliu/alist
+xiaoyaliu/alist:hostmode
