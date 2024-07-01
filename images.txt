@@ -12,3 +12,4 @@ liwei2633/gopeed
 linuxserver/transmission:latest
 cnk3x/xunlei:latest
 xiaoyaliu/alist:hostmode
+adguard/adguardhome:latest
